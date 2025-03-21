@@ -1,5 +1,7 @@
 # Have Aliens Invaded Earth Yet ?
 
+I hope not.
+
 ## Overview
 
 The HAIEY (Have Aliens Invaded Earth Yet) API provides real-time monitoring of Earth's extraterrestrial threat levels. It delivers JSON, plain text, or HTML responses.
